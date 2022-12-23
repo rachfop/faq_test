@@ -1,6 +1,6 @@
 # FAQtory settings
 
-faq_url: "https://github.com/rachfop/faq_test/main/FAQ.md"
+faq_url: "https://github.com/rachfop/faq_test/blob/main/FAQ.md"
 
 questions_path: "./questions" # Where questions should be stored
 output_path: "./FAQ.md" # Where FAQ.md should be generated
